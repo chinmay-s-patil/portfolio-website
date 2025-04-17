@@ -7,7 +7,7 @@ import { TypeAnimation } from "react-type-animation";
 const navLinks = [
   { title: "Home", path: "#home" },
   { title: "About", path: "#about" },
-  { title: "Skills", path: "#skills" },
+  // { title: "Skills", path: "#skills" },
   { title: "Projects", path: "#projects" },
   { title: "Contact", path: "#contact" },
 ];
